@@ -37,7 +37,7 @@ CF Flux Remix 是一个基于 Cloudflare Workers 和 Remix 框架的图像生成
    绑定Fork的本仓库
    
    3、填入构建命令等
-   构建命令（可选）： pnpm i
+   构建命令（可选）： pnpm install
    部署命令： pnpm run deploy
 
    4、触发CF Workers中部署
